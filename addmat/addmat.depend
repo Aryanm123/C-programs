@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563292183 source:e:\code block program\addmat\main.c
+	<stdio.h>
+	<stdlib.h>
+
